@@ -18,16 +18,16 @@ Attempted to make lots of commits and pushed to github.
 Also took plenty of notes of my changes in both the html and Css
 
 ### Wireframe 1
-![wireframe](./assets/images/
+![wireframe](assets\images\wireframe.JPG)
 
 ### wireframe 2
-![wireframe](./assets/images/changedhtml2.PNG)
+![wireframe](assets\images\wireframe2.JPG)
 
 ### wireframe 3
-![wireframe](./assets/images/changedhtml2.PNG)
+![wireframe](assets\images\responsive.JPG)
 
 ### Original CSS
-![Changed CSS](./assets/images/origcss2.PNG)
+![Changed CSS](assets\images\csssh.JPG)
 
 ### Original HTML
-![Changed CSS](./assets/images/updatedcss2.PNG)
+![Changed CSS](assets\images\htmlsh.JPG)
