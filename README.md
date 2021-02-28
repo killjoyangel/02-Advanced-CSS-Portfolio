@@ -32,4 +32,4 @@ Also took plenty of notes of my changes in both the html and Css
 ![Screenshot](./assets/images/htmlsh.JPG)
 
 ### Portfolio Logo
-![Screenshot](./assets/images/main2.JPG)
+![logo](./assets/images/logo.jpg)
