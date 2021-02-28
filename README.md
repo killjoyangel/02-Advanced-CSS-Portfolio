@@ -5,8 +5,7 @@ In this activity we made portfolios from scratch to showcase our working skills 
 
 We created a static website that you can view on this link:[killjoyangel
 /
-02-Advanced-CSS-Portfolio # My first portfolio
-](https://github.com/killjoyangel/02-Advanced-CSS-Portfolio/)
+02-Advanced-CSS-Portfolio # My first portfolio] (https://github.com/killjoyangel/02-Advanced-CSS-Portfolio/)
 
 Attempted to make lots of commits and pushed to github. 
 
@@ -18,16 +17,19 @@ Attempted to make lots of commits and pushed to github.
 Also took plenty of notes of my changes in both the html and Css
 
 ### Wireframe 1
-![wireframe](assets\images\wireframe.JPG)
+![screenshot](./assets/images/wireframe.JPG)
 
 ### wireframe 2
-![wireframe](assets\images\wireframe2.JPG)
+![screenshot](./assets/images/wireframe2.JPG)
 
 ### wireframe 3
-![wireframe](assets\images\responsive.JPG)
+![screenshot](./assets/images/responsive.JPG)
 
 ### Original CSS
-![Changed CSS](assets\images\csssh.JPG)
+![Screenshot](./assets/images/csssh.JPG)
 
 ### Original HTML
-![Changed CSS](assets\images\htmlsh.JPG)
+![Screenshot](./assets/images/htmlsh.JPG)
+
+### Portfolio Logo
+![Screenshot](./assets/images/main2.JPG)
