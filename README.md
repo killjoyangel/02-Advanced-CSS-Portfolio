@@ -3,9 +3,8 @@
 
 In this activity we made portfolios from scratch to showcase our working skills and talents for potential employers looking to fill a position. Providing a developer's name, a recent photo, and links to sections about myself and my work, and how to contact myself.
 
-We created a static website that you can view on this link:[killjoyangel
-/
-02-Advanced-CSS-Portfolio # My first portfolio] (https://github.com/killjoyangel/02-Advanced-CSS-Portfolio/)
+We created a static website that you can view on this link:[02-Advanced-CSS-Portfolio # My first portfolio] (https://killjoyangel.github.io/02-Advanced-CSS-Portfolio/
+)
 
 Attempted to make lots of commits and pushed to github. 
 
