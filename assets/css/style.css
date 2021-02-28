@@ -1,9 +1,7 @@
-
 * {
-  margin:0;
-  padding:0;  
+  margin: 0;
+  padding: 0;
 }
-
 
 body {
   position: relative;
@@ -22,35 +20,31 @@ body {
   color: #fff;
 }
 
-  }
-  
-}
-
-main{
-display-wrap:flex wrap;
+main {
+  display-wrap: flex wrap;
   padding: 60px 0;
-
 }
-
 
 /*added container*/
 /*display:flex; align-items:center; justify-content: center;*/
 .container {
-position: relative;
+  position: relative;
 }
 
-.logo{
- height: 1%;
- width: 100%;
- Flex:auto;
- padding: 10px;
- border:white;
- border:thick
-
+/*added logo*/
+.logo {
+  height: 1%;
+  width: 100%;
+  flex: auto;
+  padding: 10px;
+  border: white;
+  border: thick;
 }
-.container aside{
+
+/*added container aside*/
+.container aside {
   max-width: 80%;
-  margin:20px 40px;
+  margin: 20px 40px;
 }
 
 .container aside h2 {
@@ -58,13 +52,12 @@ position: relative;
 }
 
 /* added display, align, and justify*/
-aside
-#aboutme{
+aside #aboutme {
   position: absolute;
   top: 650px;
   right: 500px;
   font-size: 18px;
-  color:white;
+  color: white;
   text-align: center;
   flex: 50px;
   padding: 80px;
@@ -89,16 +82,15 @@ p {
 .card {
   border-style: solid;
   border-width: 1px;
-  border-radius:;
+  border-radius: ;
   padding: 10px;
   flex: 0 0 0px;
 }
 
-.button{
-max-width: 80%;
-margin:20px 80px;
+.button {
+  max-width: 80%;
+  margin: 20px 80px;
 }
-
 
 .projects {
   border-style: solid;
@@ -108,13 +100,12 @@ margin:20px 80px;
   flex: 0 0 0px;
 }
 
-
 .collage {
-  height: 60px; 
+  height: 60px;
 }
-
+/*added project id*/
 #project {
-  position:center;
+  position: center;
   top: 900px;
   right: 100px;
   font-size: 18px;
@@ -126,8 +117,6 @@ h2 {
   margin: 20px;
 }
 
-
-
 li {
   display: inline;
   padding: 20px;
@@ -136,7 +125,7 @@ li {
 
 a {
   text-decoration: none;
-  color: #FDF8F5;
+  color: #fdf8f5;
 }
 
 footer {
@@ -151,7 +140,7 @@ figure {
   margin-bottom: 40px;
 }
 
-input, 
+input,
 textarea {
   box-sizing: border-box;
   width: 300px;
@@ -166,4 +155,3 @@ textarea {
 .text-right {
   text-align: right;
 }
-
