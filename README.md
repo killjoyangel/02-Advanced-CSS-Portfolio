@@ -34,4 +34,4 @@ Also took plenty of notes of my changes in both the html and Css
 ![logo](./assets/images/logo.jpg)
 
 ### full page screenshot
-![fullpage](./assets/images/fullpage.PNG)
+![fullpage](./assets/images/fullpage.png)
