@@ -32,3 +32,6 @@ Also took plenty of notes of my changes in both the html and Css
 
 ### Portfolio Logo
 ![logo](./assets/images/logo.jpg)
+
+### full page screenshot
+![fullpage](./assets/images/fullpage.PNG)
