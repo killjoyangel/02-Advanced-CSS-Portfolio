@@ -3,6 +3,13 @@
   padding: 0;
 }
 
+html {
+  min-height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
 body {
   position: relative;
   font-family: "Goudy Bookletter 1911", sans-serif;
@@ -16,7 +23,7 @@ body {
   flex-shrink: 0;
   padding: 20px;
   text-align: center;
-  background: #25dbe8;
+  background: #23D3D9;
   color: #fff;
 }
 
@@ -33,12 +40,14 @@ main {
 
 /*added logo*/
 .logo {
-  height: 1%;
-  width: 100%;
-  flex: auto;
-  padding: 10px;
-  border: white;
-  border: thick;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+  }
+
+.nav{
+  text-align: center;
 }
 
 /*added container aside*/
@@ -52,7 +61,7 @@ main {
 }
 
 /* added display, align, and justify*/
-aside #aboutme {
+ #aboutme {
   position: absolute;
   top: 650px;
   right: 500px;
@@ -168,3 +177,8 @@ textarea {
   
     }
 
+    @media only screen and (max-width: 767px) {
+      html {
+         background-image: url(smaller-image.jpg);
+      }
+    }
