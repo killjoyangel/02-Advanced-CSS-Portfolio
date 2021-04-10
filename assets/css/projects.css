@@ -1,0 +1,165 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    position: relative;
+    font-family: "Goudy Bookletter 1911", sans-serif;
+    font-size: 20px;
+  }
+  
+  
+  main {
+    display-wrap: flex wrap;
+    padding: 60px 0;
+  }
+  
+  /*added container*/
+  /*display:flex; align-items:center; justify-content: center;*/
+  .container {
+    position: relative;
+  }
+  
+  /*added logo*/
+  
+  .nav{
+    flex-shrink: 0;
+    padding: 20px;
+    text-align: center;
+    background: #25dbe8;
+    color: #fff;
+  }
+  
+  /*added container aside*/
+  .container aside {
+    max-width: 80%;
+    margin:20px 300px;
+  }
+  
+  .container aside h2 {
+    text-align: center;
+  }
+  
+  /* added display, align, and justify*/
+   #aboutme {
+    position: absolute;
+    top: 650px;
+    right: 500px;
+    font-size: 18px;
+    color: white;
+    text-align: center;
+    flex: 50px;
+    padding: 80px;
+    text-align: center;
+    font-size: 12px;
+    text-indent: 20px;
+  }
+  
+  p {
+    font-size: 17px;
+    flex-direction-wrap: wrap;
+  }
+  
+  .pictures {
+    flex: 0 0 0px;
+    padding: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .card {
+    border-style: solid;
+    border-width: 1px;
+    border-radius: ;
+    padding: 10px;
+    flex: 0 0 0px;
+  }
+  
+  .button {
+    max-width: 80%;
+    margin: 20px 80px;
+  }
+  
+  .projects {
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+    padding: 10px;
+    flex: 0 0 0px;
+  }
+  
+  .collage {
+    height: 60px;
+  }
+  /*added project id*/
+  #project {
+    position: center;
+    top: 900px;
+    right: 100px;
+    font-size: 18px;
+    text-align: center;
+  }
+  
+  h1,
+  h2 {
+    margin: 20px;
+  }
+  
+  li {
+    display: inline;
+    padding: 20px;
+    text-decoration: none;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #fdf8f5;
+  }
+  
+  footer {
+    flex-shrink: 0;
+    padding: 20px;
+    text-align: center;
+    background: #25dbe8;
+    color: #fff;
+  }
+  
+  figure {
+    margin-bottom: 40px;
+  }
+  
+  input,
+  textarea {
+    box-sizing: border-box;
+    width: 300px;
+    border: 1px #25dbe86;
+  }
+  
+  textarea {
+    vertical-align: top;
+    height: 60px;
+  }
+  
+  .text-right {
+    text-align: right;
+  }
+  
+  @media screen and (max-width 992px){
+    #abme{
+      width: 50%;
+  
+    }
+  
+    @media screen and (max-width 768px){
+   #abme{
+        width: 50%;
+    
+      }
+  
+      @media only screen and (max-width: 767px) {
+        html {
+           background-image: url(smaller-image.jpg);
+        }
+      }
