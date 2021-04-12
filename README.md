@@ -30,3 +30,6 @@ Also took plenty of notes of my changes in both the html and Css
 ### Updated Portfolio full page screenshot
 
 ![fullpage](./assets/images/newfullpage.png)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
