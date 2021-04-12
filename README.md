@@ -15,15 +15,6 @@ Attempted to make lots of commits and pushed to github.
 
 Also took plenty of notes of my changes in both the html and Css
 
-### Wireframe 1
-![screenshot](./assets/images/wireframe.JPG)
-
-### wireframe 2
-![screenshot](./assets/images/wireframe2.JPG)
-
-### wireframe 3
-![screenshot](./assets/images/responsive.JPG)
-
 ### Original CSS
 ![Screenshot](./assets/images/csssh.JPG)
 
