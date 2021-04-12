@@ -24,9 +24,9 @@ Also took plenty of notes of my changes in both the html and Css
 ### Portfolio Logo
 ![logo](./assets/images/main2smaller.jpg)
 
-### full page screenshots
+### Original Portfolio fullpage screenshot
 ![fullpage](./assets/images/fullpage.png)
 
-### full page screenshots
+### Updated Portfolio full page screenshot
 
 ![fullpage](./assets/images/newfullpage.png)
