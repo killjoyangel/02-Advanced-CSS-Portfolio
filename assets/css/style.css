@@ -140,31 +140,30 @@ a {
 }
 
 footer {
-  flex-shrink: 0;
-  padding: 20px;
-  text-align: center;
-  background: #25dbe8;
-  color: #fff;
+  color:white;
+  font-family: time;
+  display: flex;
+  background-color: #25dbe8;
+  position: sticky;
+  height: 50px;
+  width: 100%;
+  justify-content:center;
+  align-items:center;  
 }
 
-figure {
-  margin-bottom: 40px;
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 300px;
 }
 
-input,
-textarea {
-  box-sizing: border-box;
-  width: 300px;
-  border: 1px #25dbe86;
-}
 
-textarea {
-  vertical-align: top;
-  height: 60px;
-}
-
-.text-right {
-  text-align: right;
+.row {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 @media screen and (max-width 992px){
